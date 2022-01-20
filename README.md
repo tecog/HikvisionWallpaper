@@ -1,13 +1,11 @@
-# VideoWallpaper  
-A demo of video wallpaper for python3  
+# HikvisionWallpaper  
+PYTHON实现的海康威视摄像头捕捉到的画面作为动态壁纸
 
 ## USE  
-1. run`pip install pypiwin32`to install the library  
-2. if you want run example.py, move`ffplay.exe`into`./ffmpeg-win64`  
+
 
 ## BUGS  
-The icon will disappear after using the win+tab（fixed）  
-The default wallpaper redisplayed after using the win+tab（fixed）  
+
 
 ## NOTES  
 This project uses the GPL3.0 open source license 
