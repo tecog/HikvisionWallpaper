@@ -1,5 +1,5 @@
 # HikvisionWallpaper  
-PYTHON实现的海康威视摄像头捕捉到的画面作为动态壁纸
+PYTHON实现的海康威视摄像头实时画面设置为动态壁纸，可以作为ctypes调用海康威视SDK的参考代码
 
 ## USE  
 
